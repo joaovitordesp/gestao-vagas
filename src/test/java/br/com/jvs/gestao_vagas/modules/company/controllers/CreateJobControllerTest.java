@@ -22,7 +22,7 @@ import org.springframework.web.context.WebApplicationContext;
 import br.com.jvs.gestao_vagas.modules.company.dto.CreateJobDTO;
 import br.com.jvs.gestao_vagas.modules.company.entities.CompanyEntity;
 import br.com.jvs.gestao_vagas.modules.company.repositories.CompanyRepository;
-import br.com.rocketseat.gestao_vagas.utils.TestUtils;
+import br.com.jvs.gestao_vagas.utils.TestUtils;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
